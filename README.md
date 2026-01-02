@@ -7,7 +7,7 @@ I’m passionate about building scalable web and mobile applications, system ana
 ---
 
 ## 🚀 Skills & Technologies
-- **Languages:** JavaScript, Java, PHP, SQL
+- **Languages:** JavaScript, Java, PHP,
 - **Frameworks:** React, Node.js, Express
 - **Mobile:** Android (Java/XML)
 - **Databases:** MySQL
