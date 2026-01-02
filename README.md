@@ -17,10 +17,10 @@ I’m passionate about building scalable web and mobile applications, system ana
 ---
 
 ## 📌 Featured Projects
-- 📰 **Obituary Management Platform** – Node.js & MySQL  
+- 📰 **hospital management** – Node.js & MySQL  
 - 🌦️ **Android Weather App** – REST API integration  
-- 🧮 **Calculator App** – Android Studio  
-- 🎮 **Kill the Frog Game** – Unity & C#
+- 🧮 **portofolio** – Android Studio  
+- 🎮 **Game** – Unity & C#
 
 ---
 
