@@ -1,6 +1,6 @@
 # Hi, I'm Dennis Musa 👋
 
-🎓 Software Engineering Student | 💻 Full-Stack Developer | 📊 IT Research Enthusiast
+🎓 Software Engineering Student | 💻 Frontend Developer | 📊 IT Research Enthusiast
 
 I’m passionate about building scalable web and mobile applications, system analysis, and applying technology to solve real-world problems.
 
